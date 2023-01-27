@@ -1,0 +1,20 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "API smarty.io server",
+  "main": "smarty.js",
+  "scripts": {
+    "test": "Das ist zum erstellen eines Servers mit Postmann"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Sarukan/Postmann vsCode Server"
+  },
+  "author": "sarukan",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.7",
+    "express": "^4.18.2",
+    "next": "^13.1.5"
+  }
+}
